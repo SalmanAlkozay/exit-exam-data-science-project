@@ -3,6 +3,7 @@ data/raw/*
 !data/raw/.gitkeep
 outputs/clean/
 exit_exam_project-doc/
+make_public_report.py
 # result workbooks and public-report files can contain institute names
 outputs/tables/
 outputs/repeat_not_passed/
