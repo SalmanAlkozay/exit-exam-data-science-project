@@ -1,0 +1,18 @@
+# ---- PRIVACY: the raw files contain candidate names. NEVER commit them.
+data/raw/*
+!data/raw/.gitkeep
+outputs/clean/
+exit_exam_project-doc/
+# result workbooks and public-report files can contain institute names
+outputs/tables/
+outputs/repeat_not_passed/
+outputs/figures/A03_*
+outputs/figures/A04_*
+outputs/figures/A05_*
+tools/
+public_*.py
+# environment / tooling
+__pycache__/
+.ipynb_checkpoints/
+.env
+.venv/
