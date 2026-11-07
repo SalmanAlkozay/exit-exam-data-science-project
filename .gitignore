@@ -3,7 +3,6 @@ data/raw/*
 !data/raw/.gitkeep
 outputs/clean/
 exit_exam_project-doc/
-make_public_report.py
 # result workbooks and public-report files can contain institute names
 outputs/tables/
 outputs/repeat_not_passed/
@@ -12,6 +11,7 @@ outputs/figures/A04_*
 outputs/figures/A05_*
 tools/
 public_*.py
+make_public_*.py
 # environment / tooling
 __pycache__/
 .ipynb_checkpoints/
